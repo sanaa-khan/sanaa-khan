@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
 </p>
+
+<h3> Stats </h3>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaa-khan&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
