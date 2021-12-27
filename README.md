@@ -33,6 +33,5 @@ Here are some ideas to get you started:
 
 <h3> Stats </h3>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaa-khan&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaa-khan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
