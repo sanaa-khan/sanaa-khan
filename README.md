@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Hi! I'm Sana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h2>
+# Hi! I'm Sana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<h3> About </h3>
+## About
 <p> Software developer in the making, trying my hand at everything programming. </p>
 
-<h3> Toolbox </h3>
+## Toolbox
 <p align="left">
  <a href="#">
 	 
@@ -31,8 +31,16 @@ Here are some ideas to get you started:
 
 </p>
 
-<h3> Stats </h3>
+## Stats
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanaa-khan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contact
+<p align="center">
+	<a href="mailto:sanakahnn@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/sanaa-khan"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/sana-khan-95a9771b3/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	
+</p>
