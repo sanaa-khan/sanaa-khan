@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p> Software developer in the making, trying my hand at everything programming. </p>
 
 ## Toolbox
-<p align="left">
+<!-- <p align="left">
 	 
 <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 
-</p>
+</p> -->
+
+Proficient in Python, Java and C/C++. Somewhat experienced with Go, Dart and JavaScript. And lots of other stuff - basically I like dabbling in everything.
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
