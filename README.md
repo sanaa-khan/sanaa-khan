@@ -32,9 +32,9 @@ Proficient in Python, Java and C/C++. Somewhat experienced with Go, Dart and Jav
 
 ## Stats
 <p align="center">
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=github_dark" height="192px"/></a>
+  </p>
+  
 ## Contact
 <p align="center">
 	<a href="mailto:sanakahnn@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
