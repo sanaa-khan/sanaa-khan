@@ -31,7 +31,9 @@ Here are some ideas to get you started:
 Proficient in Python, Java and C/C++. Somewhat experienced with Go, Dart and JavaScript. And lots of other stuff - basically I like dabbling in everything.
 
 ## Stats
+<p align="center">
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 ## Contact
 <p align="center">
