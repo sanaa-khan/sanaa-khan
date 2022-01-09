@@ -30,6 +30,15 @@ Here are some ideas to get you started:
 
 Proficient in Python, Java and C/C++. Somewhat experienced with Go, Dart and JavaScript. And lots of other stuff - basically I like dabbling in everything.
 
+### Frontend Development
+HTML/CSS, Flutter, JavaFX, Tkinter, React.js
+
+### Programming Languages
+C/C++, Python, Java, Dart, Go, JavaScript
+
+### Databases
+Oracle, MySQL, Firebase
+
 <!-- ## Stats
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sana's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sanaa-khan&theme=github_dark" height="192px"/></a>
