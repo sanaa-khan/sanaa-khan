@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 
 Proficient in Python, Java and C/C++. Somewhat experienced with Go, Dart and JavaScript. And lots of other stuff - basically I like dabbling in everything.
 
-### Frontend Development
+#### Frontend Development
 HTML/CSS, Flutter, JavaFX, Tkinter, React.js
 
-### Programming Languages
+#### Programming Languages
 C/C++, Python, Java, Dart, Go, JavaScript
 
-### Databases
+#### Databases
 Oracle, MySQL, Firebase
 
 <!-- ## Stats
