@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p> -->
 
 Proficient in Python, Java and HTML/CSS/JavaScript. Somewhat experienced with Go, Dart and C/C++. And lots of other stuff - basically I like dabbling in everything.
-<!-- 
+
 #### -> Frontend Development
 HTML/CSS, ReactJS, Flutter, JavaFX, Tkinter
 
