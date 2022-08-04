@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 Proficient in Python, Java and HTML/CSS/JavaScript. Somewhat experienced with Go, Dart and C/C++. And lots of other stuff - basically I like dabbling in everything.
 
 #### -> Frontend Development
-HTML/CSS, ReactJS, Flutter, JavaFX, Tkinter
+HTML/CSS, ReactJS, Angular, JavaFX, Tkinter
 
 #### -> Backend Development
 Node.js, Java Spring
